@@ -14,8 +14,9 @@ export const backgroundimg = "https://assets.nflxext.com/ffe/siteui/vlv3/563192e
 export const supported_lang = [
   { "identifier": "en", name: "English" },
   {"identifier":"hindi",name:"हिंदी"},
-  {"identifier":"kannada",name:"ಕನ್ನಡ"},
+  {"identifier":"hindi",name:"नेपाली "},
+  
 ]
 export const openapi_key = import.meta.env.VITE_OPENAI_KEY;
 
-export const IMDB_APIKEY = "k_4bzm34dl";
+export const TMDB_APIKEY = "k_4bzm34dl";

@@ -8,7 +8,7 @@ export const lang = {
         upcoming: "Upcoming",
         play: "Play",
         moreinfo: "More Info",
-        search:"Search"
+       // search:"Search"
 
         
     },
@@ -21,20 +21,31 @@ export const lang = {
         upcoming: "घटित",
         play: "चलाएँ",
         moreinfo: "अधिक जानकारी",
-        search:"खोज",
+        //search:"खोज",
 
 
     },
-    kannada: {
-        search: "ಹುಡುಕು",
-        gptplaceholder: "ನೀವು ಇಂದು ಏನನ್ನು ನೋಡಲು ಬಯಸುತ್ತೀರಿ?",
-        nowplaying: "ಈಗ ಚಲಿಸುತ್ತಿದೆ",
-        trending: "ಟ್ರೆಂಡಿಂಗ್",
-        toprated: "ಉನ್ನತ ರೇಟಿಂಗ್",
-        upcoming: "ಮುಂಬರುವ",
-        play: "ಆಟ",
-        moreinfo: "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ",
-        search:'ಹುಡುಕು'
+    // kannada: {
+    //     search: "ಹುಡುಕು",
+    //     gptplaceholder: "ನೀವು ಇಂದು ಏನನ್ನು ನೋಡಲು ಬಯಸುತ್ತೀರಿ?",
+    //     nowplaying: "ಈಗ ಚಲಿಸುತ್ತಿದೆ",
+    //     trending: "ಟ್ರೆಂಡಿಂಗ್",
+    //     toprated: "ಉನ್ನತ ರೇಟಿಂಗ್",
+    //     upcoming: "ಮುಂಬರುವ",
+    //     play: "ಆಟ",
+    //     moreinfo: "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ",
+    //     search:'ಹುಡುಕು'
+    // }
+    nepali: {
+        search: "खोज्नुहोस्",
+        gptplaceholder: "आज तपाईं के हेर्न चाहनुहुन्छ?",
+        nowplaying: "अहिले चल्दैछ",
+        trending: "ट्रेंडिङ",
+        toprated: "शीर्ष रेटेड",
+        upcoming: "आउँदैछ",
+        play: "खेल्नुहोस्",
+        moreinfo: "थप जानकारी"
     }
+    
 }
 

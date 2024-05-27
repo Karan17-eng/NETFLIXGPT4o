@@ -93,7 +93,7 @@ const Login = () => {
       <div className="absolute inset-0">
         <img
           className="w-full h-full object-cover"
-          alt="navbar-background"
+          
           src={backgroundimg}
         />
       </div>
@@ -163,20 +163,15 @@ const Login = () => {
                 {signinstate
                   ? "New to Netflix? Sign up now."
                   : "Already registered? Sign in now"}
+                  <div className="text-white flex">Created by Karan😊❤️</div>
               </p>
             </button>
-            <div className="text-sm">
-              <p className="bg-blue-700 w-fit p-1 rounded-md">Demo</p>
-              <p className="bg-blue-700 w-fit p-1 mt-1 rounded-md">
-                email: ducatimonster729@gmail.com
-              </p>
-              <p className="bg-blue-700 w-fit p-1 mt-1 rounded-md">
-                password: 20Btrcs176@179
-              </p>
-            </div>
+            
           </h4>
         </form>
+        
       </div>
+      
     </div>
   );
 };

@@ -1,5 +1,5 @@
 import { useEffect } from "react"
-import { API_OPTIONS, IMDB_APIKEY, imagecdn } from "../utils/constants";
+import { API_OPTIONS, TMDB_APIKEY, imagecdn } from "../utils/constants";
 import { useDispatch, useSelector } from "react-redux";
 import { casts, createMovieInfo } from "../utils/movieDetalsSlice";
 
